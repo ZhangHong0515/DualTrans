@@ -1,0 +1,5 @@
+<launch>
+    <include file="$(find dual_planner)/launch/rviz.launch"/>
+    <include file="$(find dual_planner)/launch/replan.launch"/>
+    <include file="$(find rvizrectangle)/launch/rect.launch"/>
+</launch>

@@ -1,0 +1,9 @@
+<launch>
+    <rosparam file="$(find rvizrectangle)/config/param.yaml" command="load" />
+    <node pkg="rvizrectangle" type="rvizrectangle_node" name="rvizrectangle_node" output="screen"/>
+    
+    <!-- <node pkg="rviz" type="rviz" name="rviz"
+    output="screen"
+    args="-d $(find rvizrectangle)/config/rviz.rviz"> 
+    </node> -->
+</launch>    

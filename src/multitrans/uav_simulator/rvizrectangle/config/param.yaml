@@ -1,0 +1,106 @@
+point_leftup_x: 3.5
+point_leftup_y: 1.5
+point_leftup_z: 3.2
+
+point_leftdown_x: 3.5
+point_leftdown_y: 1.5
+point_leftdown_z: 1.2
+
+point_rightup_x: 6.5
+point_rightup_y: 1.5
+point_rightup_z: 3.2
+
+point_rightdown_x: 6.5
+point_rightdown_y: 1.5
+point_rightdown_z: 1.2
+
+
+
+point1_leftup_x: 6
+point1_leftup_y: -7.5
+point1_leftup_z: 3
+
+point1_leftdown_x: 6
+point1_leftdown_y: -7.5
+point1_leftdown_z: 1
+
+point1_rightup_x: 9
+point1_rightup_y: -7.5
+point1_rightup_z: 3
+
+point1_rightdown_x: 9
+point1_rightdown_y: -7.5
+point1_rightdown_z: 1
+
+
+point2_leftup_x: -2
+point2_leftup_y: -15
+point2_leftup_z: 3
+
+point2_leftdown_x: -2
+point2_leftdown_y: -15
+point2_leftdown_z: 1
+
+point2_rightup_x: 1
+point2_rightup_y: -15
+point2_rightup_z: 3
+
+point2_rightdown_x: 1
+point2_rightdown_y: -15
+point2_rightdown_z: 1
+
+
+
+point3_leftup_x: -17
+point3_leftup_y: 0
+point3_leftup_z: 3
+
+point3_leftdown_x: -17
+point3_leftdown_y: 0
+point3_leftdown_z: 1
+
+point3_rightup_x: -14
+point3_rightup_y: 0
+point3_rightup_z: 3
+
+point3_rightdown_x: -14
+point3_rightdown_y: 0
+point3_rightdown_z: 1
+
+
+
+point4_leftup_x: -24
+point4_leftup_y: -7.5
+point4_leftup_z: 3
+
+point4_leftdown_x: -24
+point4_leftdown_y: -7.5
+point4_leftdown_z: 1
+
+point4_rightup_x: -21
+point4_rightup_y: -7.5
+point4_rightup_z: 3
+
+point4_rightdown_x: -21
+point4_rightdown_y: -7.5
+point4_rightdown_z: 1
+
+
+
+
+
+point5_leftup_x: -15
+point5_leftup_y: -15
+point5_leftup_z: 3
+
+point5_leftdown_x: -15
+point5_leftdown_y: -15
+point5_leftdown_z: 1
+
+point5_rightup_x: -12
+point5_rightup_y: -15
+point5_rightup_z: 3
+
+point5_rightdown_x: -12
+point5_rightdown_y: -15
+point5_rightdown_z: 1
